@@ -1,6 +1,6 @@
 # Gabriel's Portfolio
 
-# [Project 1: Stock and Sales Dashboard  For Store] LINK
+# [Project 1: Stock and Sales Dashboard  For Store] LINK https://github.com/GabrielKonig/Data-Analysis-Projects
 
 As Junior Database Manager at Ruzvidzo Store I built a dashboard Using Tableau and MS SQL and Excel to present Stock data
 in a visually appealling and easily comprehended appearance.
@@ -11,10 +11,10 @@ informed decision-making driven by the dashboard insights. Additionally, identif
 strategically promote these items, leading to a 15% increase in the sale of high-margin products.
 
 *Data was taken from excel records and entered into SQL
-*The model used oth contenet based filtering techniques and collaborative filtering techniques
+*The model used both contenet based filtering techniques and collaborative filtering techniques
 
 ## Screenshot of Tableau interactive dashboard (full project in link given above)
-![](images/ScreenshotTableau.png)
+![](images/ScreenshotTableau.PNG)
 
 # Experience - Operations Analyst - Amazon (Dec 2022 - Sep 2023)
 
